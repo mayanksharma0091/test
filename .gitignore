@@ -1,2 +1,3 @@
-*.scannerwork
+/.scannerwork
 /*.properties
+
